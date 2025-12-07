@@ -11,5 +11,5 @@ Le fichier `incorrect_sentences.csv` contient, au contraire, des phrases ayant a
 ## Résultats
 
 On note que les différents modèles testés fonctionnent très mal pour **cibler** un sous type spécifique d'erreur grammaticale.
-A notre connaissance, il n'existe aucun modèle qui réalise précisément la tâche recherchée (détection d'erreur de coréférence sur des phrases en français).
+A notre connaissance, il n'existe aucun modèle qui réalise précisément la tâche recherchée (rupture de coréférence due à un mauvais accord grammatical dans des phrases en français).
 

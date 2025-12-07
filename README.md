@@ -4,6 +4,4 @@ Nous testons la performance de différents modèles pour une tâche de détectio
 
 ## Résultats
 
-Le modèle https://huggingface.co/dreuxx26/Multilingual-grammar-Corrector-using-mT5-small semble avoir des performances assez bonnes
- 
-Le modèle https://huggingface.co/PoloHuggingface/French_grammar_error_corrector montre des performances très mauvaises (il dégrade la qualité grammaticale des phrases).
+On note que les différents modèles testés fonctionnent très mal pour **cibler** un sous type spécifique d'erreur grammaticale.
